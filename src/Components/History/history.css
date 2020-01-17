@@ -1,0 +1,18 @@
+.tags{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 5px;
+    color: black;
+}
+
+#kyoto:hover h5{
+    color: red;
+}
+
+.kyoto{
+}
+
+
+.softdev{
+    display: inline;
+}
+

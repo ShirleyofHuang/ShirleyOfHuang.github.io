@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.App-title-bar {
+  display: flex;
+  flex-direction: row;
+  height: 70px;;
+}
+ .App-title {
+   /* margin-left: 30px;
+   margin-right: 50px;
+   font-size: 30px; */
+   margin-bottom: 0;
+ }
+
+.App-homepage{
+  margin-top: 100px;
+}
+
+.App-AboutMe{
+  margin-top: 200px;
+}
+
+.App-slideshow{
+  margin-bottom: 15%;
+}
+
+.App-Projects{
+  margin-top: 200px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

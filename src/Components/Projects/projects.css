@@ -1,0 +1,43 @@
+.Projects-title{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    margin: 0;
+    box-shadow: 0.4em 0 0 #fff, -0.4em 0 0 #fff;
+    top: 40%;
+}
+
+.Projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Projects-image{
+    direction: flex;
+    flex: column;
+    height: 200px;
+    width: 200px;
+}
+
+.Projects-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.Projects-quick-summary{
+    font-size: white;
+}
+
+hr {
+    width:70%;
+    margin:0 auto;
+    height: 12px;
+}
+
+.myprojects{
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 5px;
+}
